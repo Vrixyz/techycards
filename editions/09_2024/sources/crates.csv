@@ -1,0 +1,25 @@
+Name,Points,Description,Flavor,Category
+firewall,-2,This can only be played or activated during another player's turn:  Discard a played technique. ,Protection,Tool
+secrecy,2,Your hidden cards count for all their points.,Safe with me,Crate
+rustdoc,4,"Activate a crate from each players, but they don't play their immediate effect.",--document-private-items,Tool
+tokio,0,"Activate all allied cards, then hide this.",Asynchronous at the core,Crate
+hyper,1,"Discard a random card from you hand, draw a card from any opponent pile then play it.",I like your network stack,Crate
+rand,3,"Each turn, take a random card from two different hands and swap them",Leave it to chance,Crate
+reqwest,2,"Look at two cards from your draw pile. Choose one to put on top, and shuffle the other back into the pile.",A request for information,Crate
+clap,3,"Every player reveals a card from their hand. If you guess the category of an opponent's revealed card, steal it.",Command-line precision,Crate
+serde_json,3,Look at the top 3 cards of any player's pile and reorder them.,Parsing data from the stack,Crate
+warp,3,Swap any 2 hidden cards of the same category.,Bend space to your will,Crate
+anyhow,2,"Activate a card, if you're wrong, add it to your hand instead.",Handle anything thrown at you,Crate
+diesel,2,"Draw a card, if it's a crate, activate a crate, otherwise hide a member.",Let's query,Crate
+chrono,3,Draw a card from an opponent's discard pile.,Time is on your side,Crate
+tide,5,Hide 2 crates,It's rising,Crate
+futures,3,"Play an additional technique, but hidden.",The future is already written,Crate
+lazy_static,2,Next player must hide the next card they play ,Initialization on demand.,Crate
+crossbeam,3,Each player hide a crate,Safe communication under the hood,Crate
+log,2,"At the start of your turn, next player must announce the category they will play.",Get that info,Crate
+rust analyzer,3,"Play your top card from your pile, but hidden (don't look at it).",More than autocomplete,Crate
+quickcheck,4,"Discard a card from your hand to guess a category, draw a card, if it doesn't match, give it to next player.",Which property?,Crate
+nom,3,"Play a game of ""rock paper scissors"" / ""technique crate member"" with cards from your hand. winner takes all cards.",parse and prevail,Crate
+mio,3,"Play hidden, if an effect impacts you, you may activate this card and redirect the effect to another player.",Non blocking,Crate
+either,2,"Passive: instead of playing a chosen card, next player chooses 2 cards from their hand, and you choose a random one they play.",Left or Right?,Crate
+hashbrown,3,"An opponent splits your draw cards in categories, you now have 3 draw piles (1 for each category) from which to choose to draw from. Reunite your cards if this is hidden.",A standard built-in,Crate

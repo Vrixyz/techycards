@@ -1,0 +1,16 @@
+Name,Points,Description,Flavor,Category
+Merge train,1,Play an additional card. Choose a random card from every other player to play.,Tchou tchou,Technique
+Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled",Impl all things,Technique
+Lifetime,3,Choose an allied card; this card can't be affected by opponent cards for the next two turns.,I guarantee this will live long enough,Technique
+Pattern Matching,3,"Look at two opponent cards. If they share the same category, take one.",There's always a match for everything,Technique
+Ownership,3,"Take control of an opponent's visible card and hide it.
+Give it back to the opponent if they play its category while it's visible.","Who's in charge? Me, for now",Technique
+Concurrency,1,"Shuffle next player's draw card with yours, you both draw from this one for 2 turns, split it evenly after.",That's concurrency,Technique
+Parallelism,5,Next 2 players must play their turns at the same time.,Parallel play,Technique
+Unsafe Block,5,"Draw an additional card, if it's not a technique, hide this.",Risky play,Technique
+Trait,3,"Choose an opponent's hidden card. If it has the same category as one of your cards, both get +2 points.",Let's share some common traits,Technique
+Iterator,3,"Activate any number of allied cards, if you guess them all correctly. Otherwise hide this and all the chosen cards.",Iterating through possibilities,Technique
+Macro,2,Double the effect of the next crate you play.,Expanding potential at compile time,Technique
+Ownership Transfer,1,Transfer an allied card to an opponent and hide it. Gain 4 points.,"Take it, it's yours now",Technique
+Hot reload,3,Activate an allied crate.,"No need to restart, just refresh",Technique
+Event loop,1,"Activate another player's technique card, and swap this with it. If you're wrong, discard this instead.",Chain of events,Technique
