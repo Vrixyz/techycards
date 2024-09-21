@@ -15,7 +15,7 @@ The rules are simple:
 
 1 card at a time, turns are quick and easy, but will you keep track of the points until the 8th round ?
 
-Get your tech ecosystem knowledge freshened up with these ice-breaker cards, get the best line up!
+Get your tech ecosystem knowledge freshened up with these ice-breaker cards, and take the win!
 
 ## Detailed rules
 
