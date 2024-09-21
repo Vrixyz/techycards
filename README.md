@@ -13,9 +13,9 @@ The rules are simple:
 - Draw a card.
 - Play a card.
 
-1 card at a time, turns are quick and easy, but will you keep track of the points until the 8th round ?
+One card at a time, turns are quick and easy, but will you keep track of the points until the 8th round ?
 
-Get your tech ecosystem knowledge freshened up with these ice-breaker cards, and take the win!
+Already more than 160 cards to get your tech ecosystem knowledge freshened up with these ice-breaker prone descriptions, what are you waiting for?
 
 ## Detailed rules
 
