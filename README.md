@@ -56,7 +56,7 @@ To create card files:
 To print:
 
 - Print backs and fronts independently, here is current setup:
-![docs/print_details.png]
+![print details](contrib_docs/print_details.png)
 - Ideally color their back in black to limit the see-through
 - Glue them together
 - Laminate them, so players can use temporary markers on them.
