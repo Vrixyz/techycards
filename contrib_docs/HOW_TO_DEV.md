@@ -1,8 +1,8 @@
-## Contributing
+# Contributing
 
 Techy cards is open source. That means you can print your cards and distribute them for the conference you're organizing! Contact me if you do <3
 
-### Development process
+## Development process
 
 [Affinity Publisher](https://affinity.serif.com/fr/publisher/) is used to create the card printables.
 
@@ -15,10 +15,27 @@ To create card files:
 
 To print:
 
-- Print backs and fronts independently, here is current setup:
-![print details](contrib_docs/print_details.png)
-- Ideally color their back in black to limit the see-through
+- Print backs and fronts independently
+
+<details><summary>Here is current setup</summary>
+
+- Document layout: N-Up
+- Across: 4
+- Down: 2
+- Left: 0.25 in
+- Top: 0.4 in
+- HGap: 0.4 in
+- VGap: 0.5 in
+
+![print details](print_details.png)
+
+</details>
+
+- Ideally color their back in black to limit the see-through.
 - Glue them together
 - Laminate them, so players can use temporary markers on them.
 
-Other techniques involve printing both back and front on the same paper, then folding it on itself. See https://youtu.be/WyMVRJu5yQ4?t=1186 for ideas.
+Other techniques involve printing both back and front on the same paper, then folding it on itself.
+Adding a sheet in between is the usual technique, to limit see-through even more. With laser printing, I found out it's ok for prototype cards.
+
+See https://youtu.be/WyMVRJu5yQ4?t=1186 for ideas.
