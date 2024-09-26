@@ -4,9 +4,10 @@ Techy cards is a card game for rustlang, bevy and tech enthusiasts: the perfect 
 <p align="center">
 <img src="art/cover_wide.png" height="256" />
 </p>
-With quick games for less than 5 minutes, let's determine who pays the latte for the afterparty.
 
-The goal of the game is to assemble technologist members, tools and techniques to score more points than your opponents.
+With quick games for less than 10 minutes, let's determine who pays the latte for the afterparty.
+
+The goal of the game is to gather technologist members, tools and techniques to score more points than your opponents.
 
 The rules are simple:
 
@@ -15,7 +16,7 @@ The rules are simple:
 
 One card at a time, turns are quick and easy, but will you keep track of the points until the 8th round ?
 
-Already more than 160 cards to get your tech ecosystem knowledge freshened up with these ice-breaker prone descriptions, what are you waiting for?
+Already more than 200 cards to get your tech ecosystem knowledge freshened up with ice-breaker prone descriptions, what are you waiting for?
 
 ## Detailed rules
 

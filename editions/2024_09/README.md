@@ -1,6 +1,6 @@
-# Paris Rust Meetup #70
+# Rust Meetups
 
-## Public status
+## Public reach
 
 Showcased at the [Paris Rust Meetup #70](https://www.meetup.com/rust-paris/events/303212378/?eventOrigin=group_past_events).
 
