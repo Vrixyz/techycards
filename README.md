@@ -2,7 +2,7 @@
 
 Techy cards is a card game for rustlang, bevy and tech enthusiasts: the perfect opportunity to kill time in between tech conferences!
 <p align="center">
-<img src="art/cover.png" width="256" />
+<img src="art/cover_wide.png" width="256" />
 </p>
 With quick games for less than 5 minutes, let's determine who pays the latte for the afterparty.
 
@@ -31,11 +31,4 @@ Cards are grouped in "editions" of 60-120 cards, these editions are meant to:
 - Have a theme, and/or a "star feature" with a unique twist to it.
 - Be part of a "release" plan.
 
-Current list of editions:
-
-- 2024/09: Paris Rust Meetup #70
-  - Themed edition on rust conferences, where most of members are "attendees".
-- 2024/10: Launch
-  - Star card: "open source", which both sides show the description, a reference to this game being open sourced, focused on bevy community.
-- Next edition(s)
-  - WIP
+For current list of editions, refer to [Editions](/editions).
