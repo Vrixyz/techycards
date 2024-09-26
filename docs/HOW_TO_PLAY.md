@@ -2,7 +2,7 @@
 
 ## Setup
 
-Distribute 15 cards per player, they make up the "draw pile" of each players.
+Distribute 12 cards per player, they make up the "draw pile" of each players.
 
 Each player get 2 cards in their hand from their draw pile, they can look at them but keep them hidden from other players.
 
@@ -25,11 +25,18 @@ Play a card from your hand, place it on the rightest line of its category line, 
 
 ## Victory
 
-At the 8th turn, you must not play and shout "Ship it!": the game ends. If a player notices the rule wasn't followed, all offending players must discard 1 visible member.
+- At the end of the 8th turn: the game ends.
+- For each category, count their points, players with most points win the category.
+  - Hidden cards do not count towards the total points, their descriptions are not applied.
+- The player winning most categories wins the game!
+  - The total points can be used for tiebreaks
+  - ... Or you can analyze if the played cards make sense together and judge the winner based on that!
 
-Player who has the most categories with the most points wins, or the player who shouted "Ship it!".
+### Continued
 
-Hidden cards do not count towards the total points, their descriptions are not applied.
+To add a strategy layer, a 3 rounds approach is preferred for tournaments:
+
+Start with 30 cards in each draw pile.
 
 Players who lose can keep a card from their hand for the next game.
 
@@ -42,3 +49,9 @@ Final win is when a player has 2 wins.
 ## Additional notes
 
 If a card description conflicts against these rules, the card description should be the priority. If 2 cards are conflicting, the last played or activated card should be the priority.
+
+Rules are sometimes complicated and if you think they are ambiguous, [please open an issue](https://github.com/Vrixyz/techycards/issues)!
+
+If a rule can be interprated in an advantageous way for the player playing the card, this interpretation takes priority.
+
+Adapt the rules to have fun, and discuss the cards, did you know all those names before?

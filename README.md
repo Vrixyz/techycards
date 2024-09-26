@@ -27,9 +27,9 @@ If you are interesting in more design considerations, consider reading [DESIGN.m
 
 Cards are grouped in "editions" of 60-120 cards, these editions are meant to:
 
-- Be printed together, and played together.
+- Be printed together, and played together, but all cards from all editions are mostly compatible.
 - Have a theme, and/or a "star feature" with a unique twist to it.
-- A "release" plan.
+- Be part of a "release" plan.
 
 Current list of editions:
 

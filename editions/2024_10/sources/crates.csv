@@ -9,7 +9,9 @@ aery,3,Passive: Allied discarded card count for +1 pt.,The winds of change,Crate
 dexterous_developer,4,"Choose a card from your discard pile, put it on the bottom of your draw pile.",Sleight of hand,Crate
 bevy_fluent,4,Swap your draw pile with your opponent.,Speaking their language,Crate
 turborand,3,Shuffle a draw pile.,Mix it up,Crate
-bevy_flycam,3,"Look at 5 card from the top of a draw pile, shuffle them and put them back on top.",Soar and survey,Crate
+bevy_flycam,3,"Turn your draw pile upside down (everyone can see your next card).
+
+Turn it back up if this is hidden.",Soar and survey,Crate
 config_cam,3,Look at a random card from each player's hand.,Adjust your perspective,Crate
 atmosphere,3,Look at the top card of every pile.,A breath of fresh air,Crate
 big_brain,0,"Next turn, draw 2 additional cards and play them.",Think faster,Crate
@@ -17,8 +19,8 @@ yarn_spinner,3,Next player's turn draws from your pile.,Weaving the story,Crate
 bevy_reflect,3,"Each turn, look at the top of a pile, or a hidden card.",Mirror the move,Crate
 rapier,2,All allied crates to the left get +1 pt.,Strike swiftly,Crate
 avian,2,All allied crates to the right get +1pt.,Fly with precision,Crate
-bevy_easings,3,"Every player gives a visible crate to their left neighbor, and hide it.",Juice it up,Crate
-ineffable,3,"Remove the description from a crate, then hide it.",Make accessibility easy,Crate
+bevy_easings,3,"Every player moves a visible crate to their left neighbor, they hide it.",Juice it up,Crate
+ineffable,3,"Remove the description from a visible crate, then hide it.",Make accessibility easy,Crate
 seldom_pixel,3,"Choose a category: until next turn, only cards from this category can be played.",Palette matters,Crate
 bevy_save,2,Draw a card from any discard pile.,Bring it back,Crate
 twiggy,3,"Every player discards 2 visible cards, if they can't, from their hand.",Size matters,Crate
