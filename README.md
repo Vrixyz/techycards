@@ -2,7 +2,7 @@
 
 Techy cards is a card game for rustlang, bevy and tech enthusiasts: the perfect opportunity to kill time in between tech conferences!
 <p align="center">
-<img src="art/cover_wide.png" width="256" />
+<img src="art/cover_wide.png" height="256" />
 </p>
 With quick games for less than 5 minutes, let's determine who pays the latte for the afterparty.
 
