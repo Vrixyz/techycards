@@ -1,0 +1,39 @@
+Name,Points,Description,Flavor,Category
+Closed source,2,"You can play your cards hidden.
+
+Just before the game ends, you may hide this to activate any number of cards.",Only I know,Technique
+Open source,4,"This card cannot be hidden (both sides show the description) ; ALL future crates get +2",We all know,Technique
+Transmute,2,Move a technique to the crates category.,I was something else,Technique
+Clone,0,"Play on top of another technique, double its points.",Double it!,Technique
+Observer,0,Gets +1 point at the start of each of your turns.,Knowledge is power,Technique
+Relation,0,Sets an allied card to 8pt.,Together,Technique
+Change detection,3,Next card moved by anyone must go in allies.,"Query<&T, Changed<T>>",Technique
+Test,7,Discard 2 crates,Everything is broken!,Technique
+Bug,-2,"Each player with an empty discard pile discards a random visible crate.",Bugs can appear anywhere,Technique
+Bugfix,3,Put the top card from your discard pile in the 2nd position of your draw pile.,I'm fixing it,Technique
+Issue triage,5,Passive: Has -1 points for each card in your discard pile (can be negative).,Label things,Technique
+New maintainer,3,Move your discard pile on top of another player's discard pile.,"""Not my problem anymore""",Technique
+Sprint,3,"Draw 5 cards, discard all non technique cards drawn.",Let's focus,Technique
+Jam,3,"Draw 3 cards, discard all technique cards drawn.",Quick n' dirty,Technique
+Socialize,5,"Guess a personal interest of each player; if you guess all incorrectly, discard this card.",Keep this card and start getting info ;),Technique
+HR,6,"If 3 members are played consecutively, discard this.","""TALENT acquisition""",Technique
+Ninja,6,"If 3 techniques are played consecutively, discard this.","""We're looking for a ninja unicorn with a passion""",Technique
+Maintainer,6,"If 3 crates are played consecutively, discard this.",I'm handling it.,Technique
+Networking,2,"If you have at least 3 members, play an additional card.",It's all about connections,Technique
+Derive reflect,2,"Activate an allied card.",Echoes of action,Technique
+Obfuscate,5,Hide a non member allied card.,Disappear in plain sight,Technique
+Spam,1,Hide 2 opponent cards.,Flood the channels,Technique
+Copyright,2,Opponents cannot modify your cards.,Protect what's ours,Technique
+Opportunity,4,Put top card of an opponent discard pile on the top of your draw card.,Seize the moment,Technique
+Luck,3,"Draw a card, if it's a technique, 'Luck' gets +1 point.",Fortune favors the prepared,Technique
+Secret,4,"Play hidden, this card only counts towards final points if it's hidden.",Keep it under wraps,Technique
+Spy,3,"Look at an opponent’s hidden cards.
+
+You can choose to activate a card for them (which can’t fail).",Eyes everywhere,Technique
+Pre-release,5,"When your next turn starts: From now on, no one can play crates.",The calm before the storm,Technique
+System,2,"Write a category on the back, next turn, if any opponent played this category, get +4 points",Smooth execution,Technique
+.iter(),3,Every player draws a card,Coming through,Technique
+.rev(),3,Reverse the play order,esrever,Technique
+dbg!,3,"Choose a category, look at a card from a player's hand, if the category matches, steal the card.",Gather information,Technique
+info!,2,"Choose a category, look at a card from your draw pile, if the category matches, play it, otherwise, keep it in your hand.",Great vision,Technique
+panic!,-3,"Discard all your crate cards, then draw as many cards and play them.",You might need a towel,Technique

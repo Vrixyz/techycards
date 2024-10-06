@@ -1,0 +1,35 @@
+Name,Usage authorization,Points,Description,Flavor,Category
+Cart,,10,"No new allied members can be played for 3 turns. If a member card must be played, discard it instead.",Bevy's original author,Member
+Alice,yes,3,Adds 1 pt to each other members.,A guiding hand,Member
+Mockersf,,1,"Get +1 pt for each of these different OS used this week by any player: Android, iOS, Linux, Windows, MacOS.",A tech polyglot,Member
+"Ida ""Iyes""",yes,2,Passive: Adds +2pts to other allied members.,Empower everyone,Member
+Aevyrie,,4,"Discard 3 cards from your hand, draw 3 cards.",The cycle of creation,Member
+Jojojet,,2,Once: gets +4 pt for each 4 allied techniques card.,A jet-fueled boost,Member
+Joy,,3,Passive: Gets +4 points in technique.,Driven by passion,Member
+MrGVSV,yes,3,"Look at ANY 2 hidden crates, and swap them if you want.",The unseen hand,Member
+IceSentry,yes,4,"Each turn, view the 4th card in your draw pile.",Foresight in the frost,Member
+Robswain,,4,"Each turn, view 2nd card in your draw pile, if it's a member, put it on top.",Loyal to the team,Member
+James,yes,3,"Discard 2 crates, get 1 additional turn",Efficiency,Member
+Pcwalton,,9,You need to play 4 cards while it's visible to be countable towards final points.,Patience is a virtue,Member
+Jms55,yes,5,"Hide 1 technique, draw until you get a technique or up to 3 cards max.",Strategic retreat,Member
+Sander,,0,"Play 2 additional turns, then skip your next turn after that.",Always a step ahead,Member
+Thierry Berger,yes,1,Passive: Gets +1 pt for each allied visible crate.,This very game original author,Member
+Erlend,yes,0,"Choose another player, move their member with the less current points to another team, hide it.",Light in the shadow,Member
+Rusticorn,yes,3,"Next player presents in details any crate in play, if their talk isn't convincing: discard 2 cards from their hand.",Let's talk!,Member
+Chris Biscardi,yes,4,"Share a ""recent"" news with your opponents, get +1 if at least 1 opponent did not know about it.",Weekly updates,Member
+Jan Hohenheim,yes,4,"Each turn, next player has 5 seconds to play its first card, count it loud!",The quick brown fox jumps over the lazy dog.,Member
+Jarl-dev,yes,3,Next player shows their hand to everybody.,Let there be light,Member
+Logic Projects,yes,3,"Choose a player: from your hands, exchange all your techniques for all their members.",Share the knowledge,Member
+Michel Edighoffer,,2,"Play hidden.
+
+After next player played a technique, activate this to move the played technique to your side.",Surprise expertise,Member
+SecretPocketCat,yes,2,"Passive: each turn, when you first draw a card, you may replace it at the bottom of the draw pile and draw another.",Like a snake eating itself,Member
+Griffin,yes,2,Get +1 each time you reactivate a member from being hidden.,Power from shaders,Member
+Nth,yes,4,"Each end of turn: You may choose an opponent, they look at your top card from your draw pile and tell its category. You may choose to place it on the bottom.",Picking at its finest,Member
+James7132,yes,2,"Swap physical place with another player. You both only keep your hand.
+
+This cannot be played after the 7th turn.",Is this async movement?,Member
+Bushrat,yes,3,"Choose an opponent, they tell you the color of their cards.",Color optimisation,Member
+Rob Parrett,yes,3,"Next turn: next player has to play the same category as you, if they can't, they draw 1 additional card but skip their turn.",Lead by example,Member
+Aviac,yes,3,Choose any player: reorder their played cards in each category as you see fit.,Curve it up,Member
+Ickshonpe,yes,3,"Each turn: Say a card name, if a player has it it their hand, you may choose to swap one of your card in hand with it.",You and I results in great UI,Member
