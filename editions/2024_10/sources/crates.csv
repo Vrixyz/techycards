@@ -1,39 +1,45 @@
-Name,Points,Description,Flavor,Category
-ghost,6,Hide another crate.,A phantom menace,Crate
-nightly,8,Hide all other crates.,"""The night is dark and full of terrors""",Crate
-gotham,1,Get +1 point per hidden crates.,This gotham is stability focused.,Crate
-hound,1,Add 1pt to crates and techniques.,"Go on, I'm listening",Crate
-bat,3,Before each of your turns: Activate a card,na na na na na na na na na na na na...,Crate
-charming,3,"Draw a card, show it to other players.",686578,Crate
-hex,1,"Hide 3 cards, play 2 cards, draw 1 card.",That's 6.,Crate
-spectre,3,"Choose 2 players, and assign them a category, they give their corresponding card to the other player.",p2p,Crate
-noir,3,"When next player draws a card, if you guess correctly its category, you steal the card.",Black box request,Crate
-warp,5,Passive: You only have 10 seconds to play your first card. Other players are counting!,Warp speed,Crate
-goblin,4,Show all your techniques in hand to other players.,Parsing,Crate
-rune,4,"Passive: keywords ""hide"" and ""activate"" swap their meaning while this is visible.",Embedded language,Crate
-crevice,3,All players can't draw until the end of your next turn.,Padding,Crate
-serpent,5,Next player take a card from your hand.,Hazmat!,Crate
-random_name_generator,3,"You choose a new name, if someone refer to you without using that name, they must hide a card.",Say my name!,Crate
-sugars,0,Discard all your other crates and gain their points. Draw a card.,No aspartam,Crate
-spider,5,"Passive: Whenever you draw a card, you must say its category to other players.",Crawling through a web of information,Crate
-digest,4,"Hide another crate, then activate yet another one.",I'm a slow eater.,Crate
-crypto-common,4,Hide a technique.,A cypt ? Oh come on...,Crate
-web-time,3,"Next turn, activate a card.",I've seen so many doctors I lost count.,Crate
-web-sys,1,Get +1pt for each different preferred browser used by players.,web bro',Crate
-bcrypt,6,Hide a member.,Cryptic,Crate
-goose,-3,"Take 2 cards from your discard pile, play them hidden.",At least this game has a title.,Crate
-sauron,4,You and next player activate a card.,"""No man can kill me""",Crate
-sledgehammer,3,Reduce the number of rounds before the game ends by 1.,Gotta go fast,Crate
-HECK,2,"Play an additional card, hidden.",OrIsItHeck,Crate
-http-body,5,"Previous player plays a card, hidden.",No corpse,Crate
-pest,3,Swap any 2 hidden cards.,Handle that blight,Crate
-bytemuck,3,"Hide a member.
+id,Name,Points,Description,Flavor,Category
+0,ghost,6,Hide another crate.,A phantom menace,Crate
+1,nightly,2,Hide ALL other crates.,"""The night is dark and full of terrors""",Crate
+2,gotham,1,Get +1 point for each hidden card.,This gotham is stability focused.,Crate
+3,hound,2,Add 1pt to crates and techniques.,"Go on, I'm listening",Crate
+4,bat,3,Before each of your turns: Activate a card,na na na na na na na na na na na na...,Crate
+5,charming,3,"Draw a card, show it to other players.",686578,Crate
+6,hex,1,"Hide 3 cards, play 2 cards, draw 1 card.",That's 6.,Crate
+7,spectre,3,"Choose 2 players, and assign them a category, they give a corresponding card to the other player if they can.",p2p,Crate
+8,noir,3,"When next player draws a card, if you guess correctly its category, you steal the card.",Black box request,Crate
+9,warp,5,Passive: You only have 10 seconds to play your first card. Other players are counting!,Warp speed,Crate
+10,goblin,4,Show all your techniques in hand to other players.,Parsing,Crate
+11,rune,4,"Passive: keywords ""hide"" and ""activate"" swap their meaning while this is visible.",Embedded language,Crate
+12,crevice,3,All players can't draw until the end of your next turn.,Padding,Crate
+13,serpent,5,Next player take a card from your hand.,Hazmat!,Crate
+14,random_name_generator,3,"You choose a new name, if someone refer to you without using that name, they must hide a card.",Say my name!,Crate
+15,sugars,1,Discard all your other crates and gain their points. Draw as many cards.,No aspartam,Crate
+16,spider,5,"Passive: Whenever you draw a card, you must say its category to other players.",Crawling through a web of information,Crate
+17,digest,4,"Hide another crate, then activate yet another one.",I'm a slow eater.,Crate
+18,crypto-common,4,Hide a technique.,A crypt ? Oh come on...,Crate
+19,web-time,3,"Next turn, activate a card.",I've seen so many doctors I lost count.,Crate
+20,web-sys,1,Get +1pt for each different preferred browser used by players.,web bro',Crate
+21,bcrypt,6,Hide a member.,Cryptic,Crate
+22,goose,-3,"Take 2 cards from your discard pile, play them hidden.",At least this game has a title.,Crate
+23,sauron,4,You and next player activate a card.,"""No man can kill me""",Crate
+24,sledgehammer,3,Reduce the number of rounds for the game to end by 1.,Gotta go fast,Crate
+25,HECK,2,"PLAY AN ADDITIONAL CARD, BUT HIDDEN.",OrIsItHeck,CRATE
+26,http-body,5,"Previous player plays a card, hidden.",No corpse,Crate
+27,pest,3,Swap any 2 hidden cards.,Handle that blight,Crate
+28,bytemuck,3,"Hide a member.
 Next turn: activate a crate.",What is this monstrosity?,Crate
-radium,4,"While visible: on your turn, you can draw at most 1 card and play at most 1 card. Ignore any contradictory instructions.",Atomic,Crate
-void,0,"Play hidden. 
+29,radium,4,"While visible, on your turn: - You can draw at most 1 card and play at most 1 card.
+
+Ignore any contradictory instructions.",Atomic,Crate
+30,void,0,"Play hidden. 
 
 This counts as 2 points in technique if hidden when counting final points.",Impossible!?,Crate
-mockall,3,"Play hidden in technique, if activated, this must go in crates.",Fake it till you make it,Crate
-value-bag,4,While visible: don't draw a card when your turn begins ; draw from next player's draw pile at the end of your turn.,Trick or treats!,Crate
-whoami,4,Show your hand to next player.,`id -un`,Crate
-lurk-cli,3,"Play hidden. when activated, get +1pt",Petit poucet,Crate
+31,mockall,3,"Play hidden in technique, if activated, this must go in crates.",Fake it till you make it,Crate
+32,value-bag,4,"While visible:
+- Don't draw a card when your turn begins.
+- Draw from next player's draw pile at the end of your turn.",Trick or treats!,Crate
+33,whoami,4,Show your hand to next player.,`id -un`,Crate
+34,lurk-cli,3,"Play hidden.
+
+When activated, get +1pt.",Petit poucet,Crate

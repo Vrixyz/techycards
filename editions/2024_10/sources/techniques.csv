@@ -1,27 +1,27 @@
-Name,Points,Description,Flavor,Category
-Closed source,3,You can play your cards hidden.,Only I know,Technique
-Unsafe,8,Discard your other visible techniques.,Trust me,Technique
-Orphan rule,2,Next player cannot play a card sharing more than 3 words with any of your visible cards.,Wrong neighbourhood,Technique
-Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled",Impl all things.,Technique
-Rc<RefCell>,3,"Draw a card from next player's hand, they can get it back if they play it now.",Just make everything mutable ,Technique
-Unwrap(),4,Every player must activate all their hidden cards.,No error handling,Technique
-Borrow checker,3,"If a card moved on previous turn (not played or drawn), retrieve it to your hand.",Don't mind me,Technique
-Arc<Mutex<T>>,3,"Give 3 cards to next player from your hand or draw pile, next turn, they give back those they didn´t play.","I'll get it back, right ?",Technique
-Lifetime annotations,5,Lose 1 point for each of your visible cards,static or unnamed,Technique
-std::mem::forget,3,all other players hide a card.,Leaky,Technique
-Linked List,4,"Each player gives a card to another player, who didn't receive a card from this ability.","""implement a linked list in Rust""",Technique
-#[allow(warnings)],2,Force activate all your hidden cards (this can't fail).,YOLO,Technique
-Infinite recursion,8,"Draw 5 cards, discard your deck.",Draw then again.,Technique
-Stack overflow,2,Put 2 cards from next players draw pile on the top of your draw pile.,That's a big one,Technique
-PhantomData<T>,0,"Draw a card and play it, but set its points to 0, play again.",Nothing to see here.,Technique
-Deadlock,3,"Next player must play the same category than their last turn's first card, or draw a card.",Locked in.,Technique
-Turbofish,4,Hide another technique.,::<>,Technique
-Toilet closure,3,Every player discard a rightest visible card.,|_| (),Technique
-Compiling,8,Skip your next turn.,Where's my feedback loop?,Technique
-Fuzzing,3,Swap 2 hidden cards.,nirtwv paievn,Technique
-FizzBuzz,0,"Passive: this card's points depend on the amount of visible cards:
+id,Name,Points,Description,Flavor,Category
+0,Closed source,3,You can play your cards hidden.,Only I know,Technique
+1,Unsafe,8,Discard your other visible techniques.,Trust me,Technique
+2,Orphan rule,2,Next player cannot play a card sharing more than 3 words with any of your visible cards.,Wrong neighbourhood,Technique
+3,Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled",Impl all things.,Technique
+4,Rc<RefCell>,3,"Draw a card from next player's hand, they can get it back if they play it now.",Just make everything mutable ,Technique
+5,Unwrap(),4,Every player must activate all their hidden cards.,No error handling,Technique
+6,Borrow checker,3,"If a card moved on previous turn (not played or drawn), retrieve it to your hand.",Don't mind me,Technique
+7,Arc<Mutex<T>>,3,"Give 3 cards to next player from your hand or draw pile, next turn, they give back those they didn´t play.","I'll get it back, right ?",Technique
+8,Lifetime annotations,5,Lose 1 point for each of your visible cards,static or unnamed,Technique
+9,std::mem::forget,3,all other players hide a card.,Leaky,Technique
+10,Linked List,4,"Each player gives a card to another player, who didn't receive a card from this ability.","""implement a linked list in Rust""",Technique
+11,#[allow(warnings)],2,Force activate all your hidden cards (this can't fail).,YOLO,Technique
+12,Infinite recursion,8,"Draw 5 cards, discard your deck.",Draw then again.,Technique
+13,Stack overflow,2,Put 2 cards from next players draw pile on the top of your draw pile.,That's a big one,Technique
+14,PhantomData<T>,0,"Draw a card and play it, but set its points to 0, play again.",Nothing to see here.,Technique
+15,Deadlock,3,"Next player must play the same category than their last turn's first card, or draw a card.",Locked in.,Technique
+16,Turbofish,4,Hide another technique.,::<>,Technique
+17,Toilet closure,3,Every player discard a rightest visible card.,|_| (),Technique
+18,Compiling,8,Skip your next turn.,Where's my feedback loop?,Technique
+19,Fuzzing,3,Swap 2 hidden cards.,nirtwv paievn,Technique
+20,FizzBuzz,0,"Passive: this card's points depend on the amount of visible cards:
 +3pts if it's dividable by 3
 +3pts if it's dividable by 4",Let's do a small assignement...,Technique
-Cursed code,-3,"Play hidden, when activated, this can't fail and goes to next player, hidden.
+21,Cursed code,-3,"Play hidden, when activated, this can't fail and goes to next player, hidden.
 
 This always count towards final points.",That's @&#$?&! Grawlix!,
