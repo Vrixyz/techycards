@@ -4,13 +4,13 @@ id,Name,Usage authorization,Points,Description,Flavor,Category,Dev note
 2,Fuchsia,listed on https://rustacean.net/more-crabby-things/,5,Get -1pt for each player not using android.,Can you pronounce it?,Mascot,
 3,Corro,listed on https://rustacean.net/more-crabby-things/,4,Gets +2 points if Ferris is visible.,The Unsafe Rusturchin,Mascot,
 4,Ferruccio,?,2,Passive: Add +2 in techniques.,Spaghetti,Mascot,
-5,🦀,n/a,3,Get +1 point for each player having an emoji on their name or description on a social platform of your choice.,Rallying shout,Emoji,
+5,Crab emoji,n/a,3,Get +1 point for each player having an emoji on their name or description on a social platform of your choice.,Rallying shout,Emoji,
 6,Lucy,listed on https://rustacean.net/more-crabby-things/,3,"Next player shares a detail of something Rustlang had but doesn't have any more, if they can't, get +1pt. ",From the future?,Mascot,
 7,Spooky Bevy,?,4,Share a (respectful) scary fact.,SpOOOooOooky,Emoji,
 8,Hermit,?,4,"Hide 2 other cards, next turn, activate one of them.",Secured,Mascot,
 9,Terres,?,5,Sing a few verse of a sea shanty.,A sea quel ?,Mascot,
 10,Ferris 3D,listed on https://rustacean.net/more-crabby-things/,2,Gets +1 for all other visible cards containing an emoji.,Ready to rave,Mascot,
-11,Ferris plushie,listed on https://rustacean.net/more-crabby-things/,3,Half and floor another card's value.,So squishyyyy,Mascot,
+11,Ferris plushie,listed on https://rustacean.net/more-crabby-things/,3,Half and floor another card's value.,So fluffyyyy,Mascot,
 12,Ascii Ferris,listed on https://rustacean.net/more-crabby-things/,5,Get -1pt for each visible visible card containing an emoji.,asciidental resemblance,Meme,https://jsfiddle.net/Diggsey/3pdgh52r/embedded/result/
 13,Goth Ferris,listed on https://rustacean.net/more-crabby-things/,0,Get +1pt for each card in your discard pile.,From zero to production,Mascot,
 14,Sick Ferris,listed on https://rustacean.net/more-crabby-things/,2,"An opponent activates one of your card
