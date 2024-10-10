@@ -7,3 +7,7 @@
 - https://picryl.com/media/diverse-people-stacking-hand-together-3c43dc
 - [SeaQL](https://github.com/SeaQL/sea-orm?tab=readme-ov-file#mascot)
 - https://github.com/rust-secure-code/wg
+- ghost image by https://vectorportal.com
+- goblin image by Indeyka: https://www.goodfon.com/games/wallpaper-badfon-hearthstone-goblin-vs-gnomes.html
+- rune image by Bronto: https://www.goodfon.com/miscellanea/wallpaper-svetiashchiesia-runnye-kamni-runnye-kamni-oboi-kartinka-fon.html
+- 
