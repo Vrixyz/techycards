@@ -19,6 +19,8 @@ To print:
 
 <details><summary>Here is current setup</summary>
 
+For an A4 sheet ; :construction: those calculations are slightly incorrect and need redoing.
+
 - Document layout: N-Up
 - Across: 4
 - Down: 2
