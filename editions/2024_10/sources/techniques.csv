@@ -2,11 +2,12 @@ id,Name,Points,Description,Flavor,Category
 0,Closed source,3,You can play your cards hidden.,Only I know,Technique
 1,Unsafe,8,Discard your other visible techniques.,Trust me,Technique
 2,Orphan rule,2,Next player cannot play a card sharing more than 3 words with any of your visible cards.,Wrong neighbourhood,Technique
-3,Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled",Impl all things.,Technique
+3,Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled.",Impl all things.,Technique
 4,Rc<RefCell>,3,"Draw a card from next player's hand, they can get it back if they play it now.",Just make everything mutable ,Technique
 5,Unwrap(),4,Every player must activate all their hidden cards.,No error handling,Technique
 6,Borrow checker,3,"If a card moved on previous turn (not played or drawn), retrieve it to your hand.",Don't mind me,Technique
-7,Arc<Mutex<T>>,3,"Give 3 cards to next player from your hand or draw pile, next turn, they give back those they didn´t play.","I'll get it back, right ?",Technique
+7,Arc<Mutex<T>>,3,"Give 3 cards to next player from your hand or draw pile.
+Next turn, they give back those they didn’t play.","I'll get it back, right ?",Technique
 8,Lifetime annotations,5,Lose 1 point for each of your visible cards,static or unnamed,Technique
 9,std::mem::forget,3,all other players hide a card.,Leaky,Technique
 10,Linked List,4,"Each player gives a card to another player, who didn't receive a card from this ability.","""implement a linked list in Rust""",Technique
@@ -24,4 +25,4 @@ id,Name,Points,Description,Flavor,Category
 +3pts if it's dividable by 4",Let's do a small assignement...,Technique
 21,Cursed code,-3,"Play hidden, when activated, this can't fail and goes to next player, hidden.
 
-This always count towards final points.",That's @&#$?&! Grawlix!,
+This always count towards final points.",That's @&!#$?& Grawlix!,Technique

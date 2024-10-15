@@ -1,6 +1,6 @@
 Name,Points,Description,Flavor,Category
 Merge train,1,Play an additional card. Choose a random card from every other player to play.,Tchou tchou,Technique
-Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled",Impl all things,Technique
+Orphan rule bypass,3,"Cards from last round are added to the bottom of next player's draw pile, all piles are shuffled.",Impl all things,Technique
 Lifetime,3,Choose an allied card; this card can't be affected by opponent cards for the next two turns.,I guarantee this will live long enough,Technique
 Pattern Matching,3,"Look at two opponent cards. If they share the same category, take one.",There's always a match for everything,Technique
 Ownership,3,"Take control of an opponent's visible card and hide it.
