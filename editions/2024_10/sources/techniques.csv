@@ -23,6 +23,8 @@ Next turn, they give back those they didn’t play.","I'll get it back, right ?"
 20,FizzBuzz,0,"Passive: this card's points depend on the amount of visible cards:
 +3pts if it's dividable by 3
 +3pts if it's dividable by 4",Let's do a small assignement...,Technique
-21,Cursed code,-3,"Play hidden, when activated, this can't fail and goes to next player, hidden.
+21,Cursed code,-3,"Play hidden.
+
+When activated, this can't fail but goes to next player, hidden.
 
 This always count towards final points.",That's @&!#$?& Grawlix!,Technique
