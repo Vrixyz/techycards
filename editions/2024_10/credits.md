@@ -10,4 +10,4 @@
 - ghost image by https://vectorportal.com
 - goblin image by Indeyka: https://www.goodfon.com/games/wallpaper-badfon-hearthstone-goblin-vs-gnomes.html
 - rune image by Bronto: https://www.goodfon.com/miscellanea/wallpaper-svetiashchiesia-runnye-kamni-runnye-kamni-oboi-kartinka-fon.html
-- 
+- crab emojis have a lot of emoji licences in there, found through https://emojipedia.org.
