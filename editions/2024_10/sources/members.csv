@@ -22,15 +22,15 @@ If they can't, get +1pt.",From the future?,Mascot,
 16,Droidstacean,listed on https://rustacean.net/more-crabby-things/,3,Get +1pt for each player using android.,Google,Mascot,by Ivan Lozano
 17,Ferris Reader,listed on https://rustacean.net/more-crabby-things/,3,"If you can name a book on Rust, get +1pt if another player read it.",Rustdoc,Mascot,https://rustacean.net/more-crabby-things/rustdocs.png
 
-18,Turtle Socks,?,3,"Add 1pt to any other card.",Rustdoc,Mascot,https://rustacean.net/more-crabby-things/rustdocs.png
-19,Rabbival,?,2,"Hide any other card.","Let's jam",Member,
-20,Griffin,?,3,"Get +1pt each time any member is activated from being hidden.","Let's jam",Member,
+18,Turtle Socks,yes,3,"Add 1pt to any other card.",Rustdoc,Mascot,https://rustacean.net/more-crabby-things/rustdocs.png
+19,Rabbival,yes,2,"Hide any other card.","Let's jam",Member,
+20,Griffin,yes,3,"Get +1pt each time any member is activated from being hidden.","Let's jam",Member,
 21,NeitherDucks,?,3,"Play hidden.
 
 This counts for 3pts in techniques if hidden when counting final points.","Let's jam",Member,
-22,Caudiciform,?,2,"Passive: Counts for 4pts if it’s the last member you played.","Let's jam",Member,
+22,Caudiciform,yes,2,"Passive: Counts for 4pts if it’s the last member you played.","Let's jam",Member,
 23,PeachPearOrange,?,4,"Hide an ally member.","Let's jam",Member,
 24,Renons,?,3,"Activate one of your cards.","Let's jam",Member,
 25,Zacryol,?,1,"Hide an opponent’s card, draw a card.","Let's jam",Member,
-26,gnomehost,?,3,"Throw gently this card to its destination, if it lands close enough, get +1pt.","Let's jam",Member,
-27,DropBear,?,2,"Draw a card, if it’s a member, play it and hide This.","Let's jam",Member,
+26,gnomehost,yes,3,"Throw gently this card to its destination, if it lands close enough, get +1pt.","Let's jam",Member,
+27,DropBear,yes,2,"Draw a card, if it’s a member, play it and hide This.","Let's jam",Member,
