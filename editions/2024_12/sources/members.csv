@@ -1,0 +1,30 @@
+Name,Usage authorization,Points,Description,Flavor,Category
+Eric Holk,,3,"Next turn, discard a visible card and play one additional card.",,Member
+Eric Huss,,4,Draw the next crate from your deck.,,Member
+James Munns,,2,Next player's card counts for 1 point.,Low resource management,Member
+Mara Bos,,2,Play the effect of the last card played by an opponent.,Concurrency,Member
+Mark Rousskov,,3,"Add 3 points to another card, then hide an allied crate.",Stabilize and polish,Member
+Oliver Scherer,,3,Reveal the top card of your opponent’s deck. Discard it if it has more than 3 cost.,,Member
+Travis Cross,,3,"Gain +2 points if your opponents has more ""member"" points.",,Member
+Carol Nichols,,2,"Explain a crate to you opponents, if your explanation is appreciated, get +1 point.",Need a book?,Member
+Ryan Levick,,2,Hide an opponent's technique.,,Member
+Jonathan Pallant,,2,Hide this card to hide an opponent's card after they played it.,,Member
+Jack Huey,,4,Hide this if you have a card in each category.,,Member
+Khionu Sybiern,,5,Can be played if opponent has more than 2 techniques.,,Member
+Josh Gould,,3,Activate another card.,,Member
+Alex Crichton,,2,Add 1 point to other cards in your hand.,,Member
+Niko Matsakis,,4,"Play on an opponent's side, they can't play crates while this is visible.",,Member
+Boxy,,1,Gets +1 point for each hidden card.,,Member
+Nicholas Nethercote,,3,"Hide a card, next player discards a visible card.",,Member
+Nick Cameron,,2,Move a hidden card to your side.,,Member
+Manish Goregaokar,,2,Activate a card.,,Member
+Pascal Hertleif,,2,"Choose an opponent, you both draw a card from the other's hand.",killercup,Member
+Steve Klabnik,,3,"All players draw a card, activate a card.",,Member
+Sophia J. Turner,,4,"Play hidden, activate after 2 turns.",,Member
+Without Boats,,5,Discard a card from your hand.,,Member
+Josh Triplett,,3,No cards can be activated while this is visible.,,Member
+Tyler Mandry,,1,"Gets +1pt. Each turn, either hide it or activate it.",,Member
+Aaron Turon,,4,"All other players draw a card now, then discard a card from their hand.",,Member
+BurntSushi,,6,"All other players play a card now, but hidden.",,Member
+llogiq,,4,Players with the lesser cards in hand draw a card. The others activate a card.,,Member
+ozkriff,,3,Next player sets the points of their cards in hands to 2.,,Member

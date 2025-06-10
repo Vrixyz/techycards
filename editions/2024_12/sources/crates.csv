@@ -1,0 +1,41 @@
+Name,Points,Description,Flavor,Category
+syn,3,Passive: Next player must announce the category of the cards they draw.,,Crate
+bitflag,1,"Play 2 other cards, but set their points to 1 after your turn.",,Crate
+base64,4,Hide a card.,,Crate
+itertools,2,Activate a card.,,Crate
+indexmap,1,"Announce a category, every player must play a card of this category, or hide a card.",,Crate
+libc,,,,Crate
+serde,3,"Activate a card, discard a card from your hand.",,Crate
+regex,3,"Hide a card, draw a card.",,Crate
+thiserror,3,Every player hide a card.,,Crate
+rand,2,Draw a card from your opponent's hand.,,Crate
+strsim,2,"Announce a category in your hand, if next player has it too, you both play a card from that category.",,Crate
+clap,4,"Next player must play a technique, or draw a card.",,Crate
+ryu,3,"If you have an odd points count in the member category, draw a card.",,Crate
+smallvec,,"Every players with more than 2 cards in hand discard a visible card and play a card, but hidden.",,Crate
+log,5,"Passive: Each time you draw a card, announce its category.",,Crate
+rustls,2,"Play hidden, Activate this on another player's turn to hide their played card.",,Crate
+hyper,5,Next player plays 1 card but set its points to 1.,,Crate
+semver,1,Gain 1pt for each other visible card with exactly 1pt.,,Crate
+toml,6,Passive: Gets -1pt pour each of your other visible crates.,,Crate
+tokio,,,,Crate
+futures,5,Next player activates a card.,,Crate
+tracing,-5,Passive: Gets +1pt for each visible card on next player's side.,,Crate
+nom,4,"Activate a card, draw a card, discard a visible card.",,Crate
+reqwest,3,Draw a card from an opponent's discard pile.,,Crate
+ehttp,3,Draw a card from an opponent's draw pile.,,Crate
+zeroize,1,Set a crate's points to 0.,,Crate
+crossbeam,3,"Discard a card in hand, draw a card.",,Crate
+tower,1,"Hide a card, put a visible card from an opponent in you discard pile.",,Crate
+humantime,4,The player who lives the farthest draw an aditional card.,,Crate
+petgraph,5,"Link 2 allied cards, if one is hidden or discarded, both are.",,Crate
+web-sys,,,,Crate
+tonic,,,,Crate
+opentelemetry,2,"Previous player announce the category they intend to play next turn. If they lied, they must hide a card.",,Crate
+pest,2,"If this gets hidden, adds 2 pts to another card.",,Crate
+pyo3,3,"if an opponent has space between all its visible cards, gets +1pt.",,Crate
+dotenvy,3,"Draw a card, activate a card if you just drew a technique.",,Crate
+wgpu,3,"Vote for the best visible card design, that card gets +1pt, other players draw a card.",,Crate
+winit,1,Gets +1pt. Gets +1pt when hidden.,,Crate
+sqlx,3,"Announce a category, draw a card, put the card on the bottom of your draw pile if it doesn't match. repeat up to 3 times.",,Crate
+,,,,
