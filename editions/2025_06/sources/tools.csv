@@ -1,0 +1,32 @@
+id,Name,Points,Description,Flavor,Category,Dev comment
+0,Chess,3,"While this is visible, play a game of chess against another player, the winner gets +2pts in tools.",The ultimate passive-aggressive tool.,Tool,
+1,Tennis racket,3,"Once: If a card is moved to your side, you can choose to move it elsewhere.",Return to the sender,Tool,
+2,Ping pong table,2,"If a player plays the same category twice consecutively, play this for free.",Service,Tool,"""service"" is how some belgians say ""you're welcome"""
+3,Shoes,3,Take your shoes off to gain 1pt.,Stinky?,Tool,
+4,Mölkky,4,"Before playing this, describe Mölkky. First player to guess gets +1pt. If not one finds it, discard this.","Wait, is that even a real game?",Tool,
+5,Tennis ball,3,Play hidden. Draw a card when activated.,Silently bouncing toward victory.,Tool,
+6,Computer,3,Activate a card.,Don’t forget to update your strategy.,Tool,
+7,Mouse,2,Swap 2 cards.,Click. Drag. Swap. Win.,Tool,
+8,Keyboard,3,Swap 2 cards with the same value.,BÉPO?,Tool,
+9,Pitter,3,"Once: When a card with less than 3 points is played, you can put it to your discard pile.",Dénoyauteur,Tool,
+10,Bottle opener,2,"Each turn, draw an additional card.",Pop it open!,Tool,
+11,Sunglasses,7,Hide 2 allied cards.,Sunglasses suit your eyes,Tool,
+12,Sunscreen,4,Activate 1 card that was not hidden before your previous turn.,Don't burn out,Tool,
+13,Apéro,4,Everybody draw 1.,What time is it?,Tool,
+14,Sausage,2,Has +3pts if there's a card on its left and right.,Hot dog,Tool,
+15,Bread,2,Has +2pts if there's a card on top.,Rising above the rest.,Tool,A baking pun about rising dough. (and more points)
+16,Glasses,1,"Activate a card, if any card is moved, hide this.",Focus sharpens the sneak.,Tool,
+17,Kid's noisy game,2,"Each turn, move this to another player's side, and gets -1pt.",Voted best giver's gift,Tool,
+18,Book,2,"While this is in your hand, if a book's name is mentioned by another player, play this for free.",I'm a man of culture,Tool,"There's a meme with ""a man of culture"", it now seems to refer to knowledge in 18+ content..."
+19,Bad network,2,"If another player repeats 3 times the same thing, play this for free.",Can you hear me now? Can you hear—,Tool,
+20,Hearing aid,0,"activate a card, play another card.",Loud and clear... let’s combo.,Tool,
+21,Remote Control,3,Once: Redirect an action targeting you to another player.,That's my favorite channel,Tool,
+22,Blanket Fort,3,Passive: No members with >=3 points can be played.,"""No grown-ups allowed.""",Tool,
+23,Talkie Walkie,3,"Passive: If next player plays the same category as you, you both draw 1 card.",Did you get that? Over.,Tool,
+24,Game Controller,2,"Passive: If a technique is played on your turn, gain +1 point.","Xbox, Playstation or Switch ?",Tool,
+25,Mirror,3,Copies the description of previous player's last played card.,Who's the most beautiful?,Tool,
+26,Apron,1,"When a food-related card is played, gain +1 point.",Add a pinch of points.,Tool,
+27,Noise-Canceling Headphones,2,Once: ignore an opponent's effect.,Bliss in a bubble.,Tool,
+28,Hourglass,3,"Passive: Next player has 7 seconds to play, count!",Quick Quick!,Tool,
+29,Sticky Note,1,"Once per turn: If your name is mentioned by another player, get +1pt.",What's my password?,Tool,
+30,Socks,3,"If a player doesn't have its shoes on, get +2pts.",Freedom is one sock away.,Tool,Flavor text is a reference to dobby from harry potter.

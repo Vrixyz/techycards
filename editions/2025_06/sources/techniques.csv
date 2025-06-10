@@ -1,0 +1,38 @@
+id,Name,Points,Description,Flavor,Category,Dev note
+0,Loving back rubs,5,"Draw a card from next player's draw pile, play it hidden.",Doudouces dans le dos,Technique,
+1,Kiss,3,You and next player give a card from your hand to each other.,Do you consent?,Technique,
+2,Shout,4,All players activate a card.,Because silence is not a family value.,Technique,
+3,Whispers,2,All other players hide a card.,Secrets shared behind the couch.,Technique,
+4,Make bed,2,"Discard all other techniques, play as many cards.",What a sheets technique!,Technique,
+5,Set the table,1,"Next player plays a card, move it to your side after it's played.","You cook, I get it.",Technique,
+6,Make tea,3,Draw 2 cards.,Solutions steep with time.,Technique,
+7,Snack,3,"Activate a card, if it's a member, draw a card.",Fuel before strategy.,Technique,
+8,Exercise,6,"Activate a card, skip your next turn. ",I'm tired now.,Technique,
+9,Walking,1,Gets +1pt for each visible member with >=5pts,One step at a time,Technique,
+10,Patience,1,"After your next turn, double a card's points.",Procrastination is key.,Technique,
+11,Nap,3,"Next player skips their turn, their next card doubles its points.",Polyphasic uberman,Technique,
+12,Cook,5,"Discard a visible card, draw a card.","Stir, flip, discard.",Technique,
+13,Costume,3,"Hide a card, swap it with a card from your hand.",Cross dressing,Technique,
+14,Tidy room,2,Choose a player. They discard a hidden card.,Spring already?,Technique,spring cleaning is a common concept to clean things up.
+15,Story time,4,Everyone draws a card. Then you choose who keeps theirs.,"Chapter 1: Draw.
+Chapter 2: Regret.",Technique,
+16,Hug,5,You and next player draw a card from each other's draw pile.,Sharing is caring,Technique,
+17,Surprise Visit,4,"Another player activates a card, if it fails, hide this.",We brought snacks... and consequences.,Technique,
+18,Feed the Pets,4,Activate one of your cards. Then choose a player to activate one of theirs.,Would you take care of my pets?,Technique,
+19,Fix the Wi-Fi,3,"If there is Wi-Fi available, activate 1 card, otherwise, draw 1.",Have you tried turning the house off and on again?,Technique,
+20,Silly Face,3,"Before playing this: make a silly face, if another player laughs, get +2pts.",Victory through ridiculousness.,Technique,
+21,Breakfast,2,"If it's morning, activate 1 card, otherwise, draw 1.",It’s morning somewhere.,Technique,
+22,Pillow Fight,3,"You and next player activate a card, if any fail, hide all cards involved (this included).",Shush or we'll get grounded,Technique,
+23,Family Debate,3,Reverse the play order.,Changing sides — emotionally and strategically.,Technique,
+24,Hide and Seek,3,Hide a card. Then previous player hides one.,Not it!,Technique,
+25,Peekaboo,2,"Play hidden.
+At the beginning of your turn:
+- If hidden, activate this.
+- If visible, Hide this.",Is that Schrödinger?,Technique,
+26,Under the Blanket,5,Hide a card. It can't be activated next turn.,"Safe, snuggly, suspicious.",Technique,
+27,Lie,-4,"Play hidden, when activated, this goes to next player's side.
+This count towards end points.","Is ""not telling the truth"" lying ?",Technique,
+28,Quiet Time,0,"Play hidden, gets +1pt for each turn spent hidden.
+This always count towards end points.",Introverts’ favorite strategy,Technique,
+29,Mysterious Package,2,"If activated during another player's turn, steal 1 of their hand cards.",Handle with curiosity.,Technique,
+30,Surprise Gift,-3,"Play hidden, when activated, give it to another player.",You shouldn't have!,Technique,
